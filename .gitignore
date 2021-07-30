@@ -133,6 +133,6 @@ dmypy.json
 .pyre/
 data2/
 data3/
-try_new_idea_here/
+#try_new_idea_here/
 #Trained Models
 *.h5
